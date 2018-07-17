@@ -30,5 +30,8 @@ export default{
       text-align: center;
       flex: 1;
     }
+    .active{
+      color:rgb(240, 20, 20);
+    }
   }
 </style>

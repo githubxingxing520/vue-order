@@ -9,6 +9,7 @@ var router= new VueRouter({
     {path:'/goods',component:goods},
     {path:'/ratings',component:ratings},
     {path:'/seller',component:seller}
-  ]
+  ],
+  linkActiveClass:'active'
 })
 export default router
